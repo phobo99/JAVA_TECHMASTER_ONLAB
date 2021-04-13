@@ -1,0 +1,5 @@
+1 không phải số nguyên tố
+2 là số nguyên tố
+4 không phải số nguyên tố
+XQF không phải là số
+x không phải là số
